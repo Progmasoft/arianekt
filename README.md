@@ -45,6 +45,7 @@ language that calls Java, from Java 21 on. ArianeKt is written for Kotlin alone,
 | [Progmasoft/jariane](https://github.com/Progmasoft/jariane), JAriane | Java 21+ and the JVM 21+ languages with Java interop |
 | [Progmasoft/arianekt](https://github.com/Progmasoft/arianekt), ArianeKt | Kotlin/JVM 25+ |
 | [Progmasoft/ariane.net](https://github.com/Progmasoft/ariane.net), Ariane.NET | the .NET 8+ languages |
+| [Progmasoft/hariane](https://github.com/Progmasoft/hariane), Hariane | Haskell, GHC 9.6+ |
 
 ## License
 
